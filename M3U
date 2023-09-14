@@ -1,4 +1,4 @@
-#EXTM3U list-name="Canales Argentina ðŸ‡¦ðŸ‡·" list-image="https://i.ibb.co/2Nc4j5X/arg.png" author="Clic aqui para mas listas ðŸ˜" author-url="https://bit.ly/listas-app"
+  #EXTM3U list-name="Canales Argentina ðŸ‡¦ðŸ‡·" list-image="https://i.ibb.co/2Nc4j5X/arg.png" author="Clic aqui para mas listas ðŸ˜" author-url="https://bit.ly/listas-app"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/AmericaTV.json
@@ -311,7 +311,7 @@ https://cdn.cvattv.com.ar/live/c6eds/26_TV_HD/SA_Live_dash_enc_2A/26_TV_HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/CronicaTV.json
-#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/192.png" tvg-group="Noticias", Cronica 
+#EXTINF:-1 tvg-logo="https://entretenimiento.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/3.png" tvg-group="Noticias", Canal 26  
 https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_Live_dash_enc_2A/CronicaTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
